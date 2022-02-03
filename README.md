@@ -2,3 +2,9 @@
 Kurs Samples zum Fortgeschrittenen PowerShell Kurs der ppedv AG
 
 [Kursblatt](https://ppedv.de/schulung/kurse/PowerShellCorecmdletScriptlernenFortgeschrittenWorkflowProgrammierungSeminarTraining.aspx)
+
+Agenda:
+- Einführung
+- Git
+- WMI / CIM
+- Skriptsicherheit
