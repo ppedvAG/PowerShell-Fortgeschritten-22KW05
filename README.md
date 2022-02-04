@@ -8,3 +8,4 @@ Agenda:
 - Git
 - WMI / CIM
 - Skriptsicherheit
+- Skriptübung
