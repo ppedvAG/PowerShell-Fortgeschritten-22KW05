@@ -29,7 +29,7 @@ param(
 [string]$Computername = "localhost",
 
 [ValidateSet(4624,4625,4634)]
-[Parameter(Mandatory=$true)]
+[Parameter(Mandatory=$true, HelpMessage="zb. 4624")]
 [int]$EventId,
 
 [ValidateRange(2,10)]

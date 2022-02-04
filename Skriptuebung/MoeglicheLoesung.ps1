@@ -1,7 +1,7 @@
-﻿[cmdletBinding()]
+﻿[cmdletBinding(PositionalBinding=$false)]
 param(
 [ValidateScript({Test-Path -Path $PSItem -PathType Container})]
-[Parameter(Mandatory=$true)]
+[Parameter(Mandatory=$true, Position=0)]
 [string]$Path,
 
 [ValidateRange(1,99)]

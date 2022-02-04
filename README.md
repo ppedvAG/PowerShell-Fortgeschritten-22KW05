@@ -9,3 +9,6 @@ Agenda:
 - WMI / CIM
 - Skriptsicherheit
 - Skriptübung
+- Advanced Scripting
+    - Advanced Parameter
+    - Pipeline Input 
