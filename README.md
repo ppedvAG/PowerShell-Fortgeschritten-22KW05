@@ -14,3 +14,4 @@ Agenda:
     - Advanced Parameter
     - Pipeline Input 
 - Skript Module
+- Modul Manifest
