@@ -15,3 +15,5 @@ Agenda:
     - Pipeline Input 
 - Skript Module
 - Modul Manifest
+- PowerShell Klassen
+- PowerShell Enums
