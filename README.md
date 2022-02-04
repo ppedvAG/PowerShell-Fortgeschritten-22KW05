@@ -10,5 +10,7 @@ Agenda:
 - Skriptsicherheit
 - Skriptübung
 - Advanced Scripting
+    - Functions
     - Advanced Parameter
     - Pipeline Input 
+- Skript Module
